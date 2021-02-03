@@ -4,10 +4,12 @@ export var messages = {
 	// image viewer
 	image: {
 		turn_camera_on: 'turn the camera on',
-		turn_camera_off: 'turn the camera_off',
+		turn_camera_off: 'turn the camera off',
 		take_a_snapshot: 'take a snapshot',
 		start_stream: 'view live stream',
-		stop_stream: 'stop live stream'
+		stop_stream: 'stop live stream',
+		automatic_capture: 'automatically captured at',
+		snapshot_capture: 'snapshot captured at',
 	},
 	
 	// library viewer
@@ -18,8 +20,6 @@ export var messages = {
 		close: 'close library',
 		next_page: 'next page',
 		last_page: 'last page',
-		automatic_capture: 'automatically captured at',
-		snapshot_capture: 'snapshot captured at',
 		captured: 'captured',
 	},
 
