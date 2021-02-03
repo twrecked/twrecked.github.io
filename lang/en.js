@@ -5,7 +5,7 @@ export var messages = {
 	goodbye: "good bye",
 
 	image: {
-		start_stream: 'click to start live stream'
+		start_stream: 'click to start live stream',
 		stop_stream: 'click to stop live stream'
 	}
 }
