@@ -14,7 +14,9 @@ export var messages = {
 		next_size: 'next grid size',
 		close: 'close library',
 		next_page: 'next page',
-		last_page: 'last page'
+		last_page: 'last page',
+		automatic_capture: 'automatically captured at',
+		snapshot_capture: 'snapshot captured at',
 	},
 
 	// video/stream viewer
