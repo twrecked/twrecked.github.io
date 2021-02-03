@@ -3,6 +3,9 @@ export var messages = {
 
 	// image viewer
 	image: {
+		turn_camera_on: 'turn the camera on',
+		turn_camera_off: 'turn the camera_off',
+		take_a_snapshot: 'take a snapshot',
 		start_stream: 'view live stream',
 		stop_stream: 'stop live stream'
 	},
@@ -17,6 +20,7 @@ export var messages = {
 		last_page: 'last page',
 		automatic_capture: 'automatically captured at',
 		snapshot_capture: 'snapshot captured at',
+		captured: 'captured',
 	},
 
 	// video/stream viewer
@@ -25,5 +29,29 @@ export var messages = {
 		play: 'play',
 		pause: 'pause',
 		fullscreen: 'go full screen'
+	},
+
+	// device statuses
+	status: {
+		battery_strength: 'battery strength',
+		detected: 'detected',
+		door_closed: 'closed',
+		door_open: 'open',
+		captured: 'captured',
+		captured_nothing: 'nothing today',
+		captured_something: 'clips today, last at',
+		clear: 'clear',
+		plugged_in: 'plugged in',
+		signal_strength: 'signal strength',
+		motion: 'motion',
+		sound: 'sound',
+	},
+	
+	// known triggers
+	trigger : {
+		animal: "animal",
+		vehicle: "vehicle",
+		person: "person",
+		parcel: "parcel"
 	},
 }
