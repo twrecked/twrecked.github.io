@@ -45,6 +45,12 @@ export var messages = {
 		signal_strength: 'signal strength',
 		motion: 'motion',
 		sound: 'sound',
+		lock_locked: 'locked (click to unlock)',
+		lock_unlocked: 'unlocked (click to lock)',
+		doorbell_pressed: 'ding dong!',
+		doorbell_idle: 'idle',
+		light_on: 'on',
+		light_off: 'off',
 	},
 	
 	// known triggers
