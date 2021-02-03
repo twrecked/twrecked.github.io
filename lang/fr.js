@@ -5,7 +5,7 @@ export var messages = {
 	goodbye: "au revoir",
 
 	image: {
-		start_stream:'cliquez pour démarrer la diffusion en direct'
+		start_stream: 'cliquez pour démarrer la diffusion en direct',
 		stop_stream: 'cliquez pour arrêter la diffusion en direct'
 	}
 }
