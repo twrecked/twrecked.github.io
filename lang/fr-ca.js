@@ -15,13 +15,13 @@ export var messages = {
 	
 	// library viewer
 	library: {
-		first_page:    'remière page',
-		previous_page: 'age précédente',
-		next_size:     'rochaine taille de grille',
-		close:         'erme la bibliothèque',
-		next_page:     'rochaine page',
-		last_page:     'ernière page',
-		captured:      'apturée',
+		first_page:    'première page',
+		previous_page: 'page précédente',
+		next_size:     'prochaine taille de grille',
+		close:         'ferme la bibliothèque',
+		next_page:     'prochaine page',
+		last_page:     'dernière page',
+		captured:      'capturée',
 	},
 
 	// video/stream viewer
